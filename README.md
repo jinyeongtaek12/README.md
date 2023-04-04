@@ -1,4 +1,4 @@
-# 신입개발자 진영택입니다!!
+# Jin-yeong-taek
 
 ## Web developer
 
