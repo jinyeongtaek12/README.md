@@ -9,5 +9,6 @@
 DEV Jin-yeongtaek
 </a>
 
-:book: 교육이수 현황
+
+## :book: 교육이수 현황
 
